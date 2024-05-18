@@ -1,0 +1,3 @@
+displayName = Steve The Jobs
+author = MrQuba
+version = 0.1
