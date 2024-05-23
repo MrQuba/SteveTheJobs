@@ -2,12 +2,20 @@
 
 Items: {
 	BitApple: {
-		DisplayName: "Bit Apple"
+		DisplayName: Bit Apple
 		Tooltip:
 			'''
-			Template of an item
-			Replacing this tooltip is duty 
-			It's snowing on Mt.Fuji
+			Not even Greatest Devourer could bite it.
+			Summons Greatestest
 			'''
 	}
 }
+
+Buffs: {
+	SteveJobsBuff: {
+		DisplayName: Steve Jobs Buff
+		Description: The Greatestest Steve The Jobs follows you
+	}
+}
+
+Projectiles.SteveJobs.DisplayName: Steve Jobs

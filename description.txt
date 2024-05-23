@@ -1,1 +1,1 @@
-Modify this file with a description of your mod.
+This is an add-on to Calamity Mod. It adds a new pet that can drop from Devourer of Gods
