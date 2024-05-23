@@ -8,4 +8,4 @@ Terraria\tModLoader\Mods
 ```
 3. Put downloaded file here
 ## Wiki
-You can find wiki (here)[https://github.com/MrQuba/SteveTheJobs/wiki]
+You can find wiki [here](https://github.com/MrQuba/SteveTheJobs/wiki)
